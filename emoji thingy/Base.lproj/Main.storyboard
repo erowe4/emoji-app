@@ -34,6 +34,9 @@
                             <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="XYR-Rn-XPC" secondAttribute="bottom" id="qFJ-r7-W1r"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="EmojiTableView" destination="XYR-Rn-XPC" id="1RI-uV-cBa"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
